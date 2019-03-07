@@ -1,0 +1,184 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+ 
+.header{
+    height: 72px;
+    background: #fff;
+}
+.menyu ul li{
+    display: inline-block;
+    padding: 15px 20px;
+
+}
+.logo{
+    color:black;
+    float: left;
+}
+    .menyu{
+        float:right;
+        color:white;
+        padding-top:10px;   
+}
+.menyu a{
+    color:black;
+    text-decoration:none
+}
+    .clear{
+        clear: both;
+    }
+
+.container{
+    width: 1000px;
+    margin: auto;
+}
+
+.left{
+    width: 45%;
+    float: left;
+}
+
+.left2{
+    float: left;
+}
+
+.right{
+    width: 50%;
+    float: right;
+}
+
+.clear{
+    clear: both;
+}
+
+.container2 h1,h4{
+    text-align: center;
+}
+.clear{
+    clear: both;
+}
+
+.left a {
+    font-size: bold;
+    color:white;
+    padding:20px 40px;
+    background: #8490ff;
+    text-decoration: none;
+    font-size: 20px;
+}
+.right2 a {
+    font-size: bold;
+    color:white;
+    padding:20px 40px;
+    background: #8490ff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.clear{
+    clear: both;
+}
+
+
+
+
+.yazi {
+    float: left;
+    box-sizing: border-box;
+    width: 30.3333%;
+    margin: 10px;
+    min-height: 150px;
+    border-radius:5px;
+    color:#000;
+text-align: center
+
+}
+.clear{
+    clear: both;
+}
+
+.body{
+    margin: 0;
+    padding:0;
+}
+.blogs{
+    display: flex;
+    background: -webkit-linear-gradient(0deg,#8490ff 0%,#62bdfc 100%);
+    flex-direction: row;
+    text-align: center;
+    color: whitesmoke;
+    height: 35%;
+}
+.blog{
+    padding: 50px;
+    margin: 20px;
+}
+.clear{
+    clear: both;
+}
+
+.all{
+    display: flex;
+    justify-content: center;
+    margin-top:100px;
+}
+
+.all .blok{
+margin: 10px;
+position: relative;
+text-align: center;
+
+
+
+}
+.blok div{
+background-color: aqua;
+width: 100%;
+height: 338px;
+position: absolute;
+left:0;
+top: 0;
+opacity: 0.5;
+display: none;
+}
+.blok:hover div{
+     display: block;
+    
+}
+.clear{
+    clear: both;
+}
+
+
+
+.all2{
+    display: flex;
+    justify-content: center;
+    margin-top:100px;
+}
+.all2 .blok2{
+margin: 10px;
+position: relative;
+text-align: center;
+
+
+}
+.blok2 div{
+background-color: aqua;
+width: 100%;
+height: 338px;
+position: absolute;
+left:0;
+top: 0;
+opacity: 0.5;
+display: none;
+}
+.blok:hover div{
+     display: block;
+}
+
+.clear{
+clear: both;
+}
+    
